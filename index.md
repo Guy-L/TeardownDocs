@@ -2,7 +2,7 @@
 
 These are all supported XML tags with their settings.
 
-<a href="lua.md">Lua documentation here</a>
+<a href="https://docs.google.com/spreadsheets/d/12k30sGhhOToKoIVen4_I70ae3cCy-ZPYfppVMP41YN8/edit?usp=sharing">Lua documentation here</a>
 
 ## Scene
     - shadowVolume (vec) - World bounds in meters. Everything inside this volume cast shadows. Keep as small as possible.
